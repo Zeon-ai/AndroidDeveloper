@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello Toast Layout Variant</string>
+    <string name="toast">toast</string>
+</resources>
