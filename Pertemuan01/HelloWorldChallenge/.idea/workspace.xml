@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbb029fb-402e-4d22-af80-5f83647d69b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan06/DroidCafeHomework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan07/CheckboxHomeWork/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan07/DialogForAlert/.idea/DialogForAlert.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan07/DroidCafeInputChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan07/DroidCafeOptionsHomework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan08/RecyclerView/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan08/ScorekeeperChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan10/CodingChallenge7_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan10/Homework7_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan10/SimpleAsyncTask/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan10/TwoActivitiesEspresso/.idea/TwoActivitiesEspresso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan11/Homework7_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan11/Homework7_3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteIt7_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteItLoader7_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan12/NotifyMe_08.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan12/StandUp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/CounterHomework/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan04/CounterHomework/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/CounterHomework/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan04/CounterHomework/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/CounterHomework/app/src/androidTest/java/id/ac/poliban/e020320066/counterhomework/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/CounterHomework/app/src/main/java/id/ac/poliban/e020320066/counterhomework/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/CounterHomework/app/src/test/java/id/ac/poliban/e020320066/counterhomework/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/ImplicitIntentsReceiver/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan04/ImplicitIntentsReceiver/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/ImplicitIntentsReceiver/app/src/androidTest/java/com/reihan/implicitintentsreceiver/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/ImplicitIntentsReceiver/app/src/main/java/com/reihan/implicitintentsreceiver/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/ImplicitIntentsReceiver/app/src/test/java/com/reihan/implicitintentsreceiver/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/IntentImplisit/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan04/IntentImplisit/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/IntentImplisit/app/src/androidTest/java/id/ac/poliban/e020320066/intentimplisit/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/IntentImplisit/app/src/main/java/id/ac/poliban/e020320066/intentimplisit/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/IntentImplisit/app/src/test/java/id/ac/poliban/e020320066/intentimplisit/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/IntentImplisitChallange/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan04/IntentImplisitChallange/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/IntentImplisitChallange/app/src/androidTest/java/id/ac/poliban/e020320066/intentimplisitchallange/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/IntentImplisitChallange/app/src/main/java/id/ac/poliban/e020320066/intentimplisitchallange/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/IntentImplisitChallange/app/src/main/java/id/ac/poliban/e020320066/intentimplisitchallange/SecondActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/IntentImplisitChallange/app/src/test/java/id/ac/poliban/e020320066/intentimplisitchallange/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/IntentImplisitHomeWork/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan04/IntentImplisitHomeWork/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/IntentImplisitHomeWork/app/src/androidTest/java/id/ac/poliban/e020320066/intentimplisithomework/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/IntentImplisitHomeWork/app/src/main/java/id/ac/poliban/e020320066/intentimplisithomework/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/IntentImplisitHomeWork/app/src/test/java/id/ac/poliban/e020320066/intentimplisithomework/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/TwoActivitiesUpdate/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan04/TwoActivitiesUpdate/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/TwoActivitiesUpdate/app/src/androidTest/java/id/ac/poliban/e020320066/twoactivitiesupdate/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/TwoActivitiesUpdate/app/src/main/java/id/ac/poliban/e020320066/twoactivitiesupdate/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/TwoActivitiesUpdate/app/src/main/java/id/ac/poliban/e020320066/twoactivitiesupdate/SecondActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/TwoActivitiesUpdate/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan04/TwoActivitiesUpdate/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/TwoActivitiesUpdate/app/src/test/java/id/ac/poliban/e020320066/twoactivitiesupdate/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/TwoActivitiesUpdateChallange/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan04/TwoActivitiesUpdateChallange/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/TwoActivitiesUpdateChallange/app/src/androidTest/java/id/ac/poliban/e020320066/twoactivitiesupdatechallange/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/TwoActivitiesUpdateChallange/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan04/TwoActivitiesUpdateChallange/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/TwoActivitiesUpdateChallange/app/src/main/java/id/ac/poliban/e020320066/twoactivitiesupdatechallange/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/TwoActivitiesUpdateChallange/app/src/main/java/id/ac/poliban/e020320066/twoactivitiesupdatechallange/SecondActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan04/TwoActivitiesUpdateChallange/app/src/test/java/id/ac/poliban/e020320066/twoactivitiesupdatechallange/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/DroidCafe/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/DroidCafe/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/DroidCafe/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/DroidCafe/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan06/DroidCafe/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/DroidCafe/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan06/DroidCafe/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/DroidCafeChallenge/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/DroidCafeChallenge/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/DroidCafeChallenge/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/DroidCafeChallenge/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan06/DroidCafeChallenge/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/DroidCafeHomework/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/DroidCafeHomework/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/DroidCafeHomework/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/DroidCafeHomework/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan06/DroidCafeHomework/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/HelloCompat/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/HelloCompat/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/HelloCompat/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/HelloCompat/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan06/HelloCompat/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan06/HelloCompat/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan06/HelloCompat/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan07/CheckboxHomeWork/app/src/androidTest/java/id/ac/poliban/e020320066/checkboxhomework/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan07/CheckboxHomeWork/app/src/androidTest/java/id/ac/poliban/febri/checkboxhomework/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan07/CheckboxHomeWork/app/src/main/java/id/ac/poliban/e020320066/checkboxhomework/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan07/CheckboxHomeWork/app/src/main/java/id/ac/poliban/febri/checkboxhomework/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan07/CheckboxHomeWork/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan07/CheckboxHomeWork/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan07/CheckboxHomeWork/app/src/test/java/id/ac/poliban/e020320066/checkboxhomework/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan07/CheckboxHomeWork/app/src/test/java/id/ac/poliban/febri/checkboxhomework/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan07/ContextMenuScrollingText/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan07/ContextMenuScrollingText/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan07/DroidCafeInputChallenge/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan07/DroidCafeInputChallenge/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan07/DroidCafeInputChallenge/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan07/DroidCafeInputChallenge/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan07/DroidCafeInputChallenge/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan07/DroidCafeOptionsHomework/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan07/DroidCafeOptionsHomework/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan07/DroidCafeOptionsHomework/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan07/DroidCafeOptionsHomework/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan07/DroidCafeOptionsHomework/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan08/BatteryLevel-with-LevelListDrawable-master/app/src/androidTest/java/com/mokshagna/abhiroop/batterylevel/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan08/BatteryLevel-with-LevelListDrawable-master/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan08/BatteryLevel-with-LevelListDrawable-master/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan08/BatteryLevel-with-LevelListDrawable-master/app/src/main/java/com/mokshagna/abhiroop/batterylevel/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan08/BatteryLevel-with-LevelListDrawable-master/app/src/test/java/com/mokshagna/abhiroop/batterylevel/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan08/RecyclerView/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan08/RecyclerView/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan08/RecylerViewHomework/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan08/RecylerViewHomework/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan08/ScorekeeperChallenge/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan08/ScorekeeperChallenge/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/CodingChallenge7_1/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/CodingChallenge7_1/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/CodingChallenge7_1/app/src/androidTest/java/id/ac/poliban/e020320066/codingchallenge7_1/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/CodingChallenge7_1/app/src/androidTest/java/id/ac/poliban/febri/codingchallenge7_1/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/CodingChallenge7_1/app/src/main/java/id/ac/poliban/e020320066/codingchallenge7_1/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/CodingChallenge7_1/app/src/main/java/id/ac/poliban/febri/codingchallenge7_1/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/CodingChallenge7_1/app/src/main/java/id/ac/poliban/e020320066/codingchallenge7_1/SimpleAsyncTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/CodingChallenge7_1/app/src/main/java/id/ac/poliban/febri/codingchallenge7_1/SimpleAsyncTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/CodingChallenge7_1/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/CodingChallenge7_1/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/CodingChallenge7_1/app/src/test/java/id/ac/poliban/e020320066/codingchallenge7_1/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/CodingChallenge7_1/app/src/test/java/id/ac/poliban/febri/codingchallenge7_1/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/Homework7_1/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/Homework7_1/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/Homework7_1/app/src/androidTest/java/id/ac/poliban/e020320066/homework7_1/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/Homework7_1/app/src/androidTest/java/id/ac/poliban/febri/homework7_1/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/Homework7_1/app/src/main/java/id/ac/poliban/e020320066/homework7_1/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/Homework7_1/app/src/main/java/id/ac/poliban/febri/homework7_1/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/Homework7_1/app/src/main/java/id/ac/poliban/e020320066/homework7_1/SimpleAsyncTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/Homework7_1/app/src/main/java/id/ac/poliban/febri/homework7_1/SimpleAsyncTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/Homework7_1/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/Homework7_1/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/Homework7_1/app/src/test/java/id/ac/poliban/e020320066/homework7_1/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/Homework7_1/app/src/test/java/id/ac/poliban/febri/homework7_1/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/SimpleAsyncTask/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/SimpleAsyncTask/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/SimpleAsyncTask/app/src/androidTest/java/id/ac/poliban/e020320066/simpleasynctask/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/SimpleAsyncTask/app/src/androidTest/java/id/ac/poliban/febri/simpleasynctask/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/SimpleAsyncTask/app/src/main/java/id/ac/poliban/e020320066/simpleasynctask/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/SimpleAsyncTask/app/src/main/java/id/ac/poliban/febri/simpleasynctask/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/SimpleAsyncTask/app/src/main/java/id/ac/poliban/e020320066/simpleasynctask/SimpleAsyncTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/SimpleAsyncTask/app/src/main/java/id/ac/poliban/febri/simpleasynctask/SimpleAsyncTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/SimpleAsyncTask/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/SimpleAsyncTask/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/SimpleAsyncTask/app/src/test/java/id/ac/poliban/e020320066/simpleasynctask/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/SimpleAsyncTask/app/src/test/java/id/ac/poliban/febri/simpleasynctask/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan10/TwoActivitiesEspresso/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan10/TwoActivitiesEspresso/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_2/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_2/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_2/app/src/androidTest/java/id/ac/poliban/e020320066/codingchallenge7_2/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_2/app/src/androidTest/java/id/ac/poliban/febri/codingchallenge7_2/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_2/app/src/main/java/id/ac/poliban/e020320066/codingchallenge7_2/BookLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_2/app/src/main/java/id/ac/poliban/febri/codingchallenge7_2/BookLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_2/app/src/main/java/id/ac/poliban/e020320066/codingchallenge7_2/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_2/app/src/main/java/id/ac/poliban/febri/codingchallenge7_2/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_2/app/src/main/java/id/ac/poliban/e020320066/codingchallenge7_2/NetworkUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_2/app/src/main/java/id/ac/poliban/febri/codingchallenge7_2/NetworkUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_2/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_2/app/src/test/java/id/ac/poliban/e020320066/codingchallenge7_2/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_2/app/src/test/java/id/ac/poliban/febri/codingchallenge7_2/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_3/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_3/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_3/app/src/androidTest/java/id/ac/poliban/e020320066/codingchallenge7_3/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_3/app/src/androidTest/java/id/ac/poliban/febri/codingchallenge7_3/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_3/app/src/main/java/id/ac/poliban/e020320066/codingchallenge7_3/CustomReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_3/app/src/main/java/id/ac/poliban/febri/codingchallenge7_3/CustomReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_3/app/src/main/java/id/ac/poliban/e020320066/codingchallenge7_3/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_3/app/src/main/java/id/ac/poliban/febri/codingchallenge7_3/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_3/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_3/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_3/app/src/test/java/id/ac/poliban/e020320066/codingchallenge7_3/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/CodingChallenge7_3/app/src/test/java/id/ac/poliban/febri/codingchallenge7_3/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/Homework7_2/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/Homework7_2/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/Homework7_2/app/src/androidTest/java/id/ac/poliban/e020320066/homework7_2/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/Homework7_2/app/src/androidTest/java/id/ac/poliban/febri/homework7_2/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/Homework7_2/app/src/main/java/id/ac/poliban/e020320066/homework7_2/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/Homework7_2/app/src/main/java/id/ac/poliban/febri/homework7_2/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/Homework7_2/app/src/main/java/id/ac/poliban/e020320066/homework7_2/NetworkUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/Homework7_2/app/src/main/java/id/ac/poliban/febri/homework7_2/NetworkUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/Homework7_2/app/src/main/java/id/ac/poliban/e020320066/homework7_2/SourceCodeLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/Homework7_2/app/src/main/java/id/ac/poliban/febri/homework7_2/SourceCodeLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/Homework7_2/app/src/test/java/id/ac/poliban/e020320066/homework7_2/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/Homework7_2/app/src/test/java/id/ac/poliban/febri/homework7_2/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/Homework7_3/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/Homework7_3/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/Homework7_3/app/src/androidTest/java/id/ac/poliban/e020320066/homework7_3/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/Homework7_3/app/src/androidTest/java/id/ac/poliban/febri/homework7_3/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/Homework7_3/app/src/main/java/id/ac/poliban/e020320066/homework7_3/CustomReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/Homework7_3/app/src/main/java/id/ac/poliban/febri/homework7_3/CustomReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/Homework7_3/app/src/main/java/id/ac/poliban/e020320066/homework7_3/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/Homework7_3/app/src/main/java/id/ac/poliban/febri/homework7_3/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/Homework7_3/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/Homework7_3/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/Homework7_3/app/src/test/java/id/ac/poliban/e020320066/homework7_3/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/Homework7_3/app/src/test/java/id/ac/poliban/febri/homework7_3/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/PowerReceiver7_3/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/PowerReceiver7_3/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/PowerReceiver7_3/app/src/androidTest/java/id/ac/poliban/e020320066/powerreceiver7_3/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/PowerReceiver7_3/app/src/androidTest/java/id/ac/poliban/febri/powerreceiver7_3/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/PowerReceiver7_3/app/src/main/java/id/ac/poliban/e020320066/powerreceiver7_3/CustomReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/PowerReceiver7_3/app/src/main/java/id/ac/poliban/febri/powerreceiver7_3/CustomReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/PowerReceiver7_3/app/src/main/java/id/ac/poliban/e020320066/powerreceiver7_3/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/PowerReceiver7_3/app/src/main/java/id/ac/poliban/febri/powerreceiver7_3/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/PowerReceiver7_3/app/src/test/java/id/ac/poliban/e020320066/powerreceiver7_3/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/PowerReceiver7_3/app/src/test/java/id/ac/poliban/febri/powerreceiver7_3/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteIt7_2/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteIt7_2/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteIt7_2/app/src/androidTest/java/id/ac/poliban/e020320066/whowroteit7_2/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteIt7_2/app/src/androidTest/java/id/ac/poliban/febri/whowroteit7_2/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteIt7_2/app/src/main/java/id/ac/poliban/e020320066/whowroteit7_2/FetchBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteIt7_2/app/src/main/java/id/ac/poliban/febri/whowroteit7_2/FetchBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteIt7_2/app/src/main/java/id/ac/poliban/e020320066/whowroteit7_2/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteIt7_2/app/src/main/java/id/ac/poliban/febri/whowroteit7_2/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteIt7_2/app/src/main/java/id/ac/poliban/e020320066/whowroteit7_2/NetworkUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteIt7_2/app/src/main/java/id/ac/poliban/febri/whowroteit7_2/NetworkUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteIt7_2/app/src/test/java/id/ac/poliban/e020320066/whowroteit7_2/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteIt7_2/app/src/test/java/id/ac/poliban/febri/whowroteit7_2/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteItLoader7_2/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteItLoader7_2/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteItLoader7_2/app/src/androidTest/java/id/ac/poliban/e020320066/whowroteitloader7_2/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteItLoader7_2/app/src/androidTest/java/id/ac/poliban/febri/whowroteitloader7_2/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteItLoader7_2/app/src/main/java/id/ac/poliban/e020320066/whowroteitloader7_2/BookLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteItLoader7_2/app/src/main/java/id/ac/poliban/febri/whowroteitloader7_2/BookLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteItLoader7_2/app/src/main/java/id/ac/poliban/e020320066/whowroteitloader7_2/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteItLoader7_2/app/src/main/java/id/ac/poliban/febri/whowroteitloader7_2/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteItLoader7_2/app/src/main/java/id/ac/poliban/e020320066/whowroteitloader7_2/NetworkUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteItLoader7_2/app/src/main/java/id/ac/poliban/febri/whowroteitloader7_2/NetworkUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteItLoader7_2/app/src/test/java/id/ac/poliban/e020320066/whowroteitloader7_2/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan11/WhoWroteItLoader7_2/app/src/test/java/id/ac/poliban/febri/whowroteitloader7_2/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.1/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.1/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.1/app/src/androidTest/java/id/ac/poliban/mi/ramlan/notifyme_081/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.1/app/src/androidTest/java/id/ac/poliban/mi/febri/notifyme_081/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.1/app/src/main/java/id/ac/poliban/mi/ramlan/notifyme_081/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.1/app/src/main/java/id/ac/poliban/mi/febri/notifyme_081/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.1/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.1/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.1/app/src/test/java/id/ac/poliban/mi/ramlan/notifyme_081/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.1/app/src/test/java/id/ac/poliban/mi/febri/notifyme_081/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.2/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.2/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.2/app/src/androidTest/java/id/ac/poliban/mi/ramlan/standupcc_082/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.2/app/src/androidTest/java/id/ac/poliban/mi/febri/standupcc_082/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.2/app/src/main/java/id/ac/poliban/mi/ramlan/standupcc_082/AlarmReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.2/app/src/main/java/id/ac/poliban/mi/febri/standupcc_082/AlarmReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.2/app/src/main/java/id/ac/poliban/mi/ramlan/standupcc_082/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.2/app/src/main/java/id/ac/poliban/mi/febri/standupcc_082/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.2/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.2/app/src/test/java/id/ac/poliban/mi/ramlan/standupcc_082/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/CodingChallenge_08.2/app/src/test/java/id/ac/poliban/mi/febri/standupcc_082/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.1/app/src/main/java/id/ac/poliban/mi/ramlan/notifymehw_081/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.1/app/src/main/java/id/ac/poliban/mi/febri/notifymehw_081/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.1/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.1/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.2/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.2/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.2/app/src/androidTest/java/id/ac/poliban/mi/ramlan/homework_082/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.2/app/src/androidTest/java/id/ac/poliban/mi/febri/homework_082/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.2/app/src/main/java/id/ac/poliban/mi/ramlan/homework_082/AlarmReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.2/app/src/main/java/id/ac/poliban/mi/febri/homework_082/AlarmReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.2/app/src/main/java/id/ac/poliban/mi/ramlan/homework_082/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.2/app/src/main/java/id/ac/poliban/mi/febri/homework_082/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.2/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.2/app/src/test/java/id/ac/poliban/mi/ramlan/homework_082/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/HomeWork_08.2/app/src/test/java/id/ac/poliban/mi/febri/homework_082/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/NotifyMe_08.1/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/NotifyMe_08.1/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/NotifyMe_08.1/app/src/androidTest/java/id/ac/poliban/mi/ramlan/powerreceiverhw_073/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/NotifyMe_08.1/app/src/androidTest/java/id/ac/poliban/mi/febri/powerreceiverhw_073/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/NotifyMe_08.1/app/src/main/java/id/ac/poliban/mi/ramlan/powerreceiverhw_073/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/NotifyMe_08.1/app/src/main/java/id/ac/poliban/mi/febri/powerreceiverhw_073/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/NotifyMe_08.1/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/NotifyMe_08.1/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/NotifyMe_08.1/app/src/test/java/id/ac/poliban/mi/ramlan/powerreceiverhw_073/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/NotifyMe_08.1/app/src/test/java/id/ac/poliban/mi/febri/powerreceiverhw_073/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/StandUp/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/StandUp/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan12/StandUp/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan12/StandUp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan13/CodingChallenge_08.3/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan13/CodingChallenge_08.3/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan13/CodingChallenge_08.3/app/src/androidTest/java/id/ac/poliban/mi/ramlan/notificationschedulercc_083/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan13/CodingChallenge_08.3/app/src/androidTest/java/id/ac/poliban/mi/febri/notificationschedulercc_083/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan13/CodingChallenge_08.3/app/src/main/java/id/ac/poliban/mi/ramlan/notificationschedulercc_083/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan13/CodingChallenge_08.3/app/src/main/java/id/ac/poliban/mi/febri/notificationschedulercc_083/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan13/CodingChallenge_08.3/app/src/main/java/id/ac/poliban/mi/ramlan/notificationschedulercc_083/SleeperJobScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan13/CodingChallenge_08.3/app/src/main/java/id/ac/poliban/mi/febri/notificationschedulercc_083/SleeperJobScheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan13/CodingChallenge_08.3/app/src/test/java/id/ac/poliban/mi/ramlan/notificationschedulercc_083/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan13/CodingChallenge_08.3/app/src/test/java/id/ac/poliban/mi/febri/notificationschedulercc_083/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan13/HomeWork_08.3/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan13/HomeWork_08.3/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan13/HomeWork_08.3/app/src/androidTest/java/id/ac/poliban/mi/ramlan/homework_083/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan13/HomeWork_08.3/app/src/androidTest/java/id/ac/poliban/mi/febri/homework_083/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan13/HomeWork_08.3/app/src/main/java/id/ac/poliban/mi/ramlan/homework_083/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan13/HomeWork_08.3/app/src/main/java/id/ac/poliban/mi/febri/homework_083/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan13/HomeWork_08.3/app/src/test/java/id/ac/poliban/mi/ramlan/homework_083/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan13/HomeWork_08.3/app/src/test/java/id/ac/poliban/mi/febri/homework_083/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan13/NotificationScheduler_08.3/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan13/NotificationScheduler_08.3/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan13/NotificationScheduler_08.3/app/src/androidTest/java/id/ac/poliban/mi/ramlan/notificationscheduler_083/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan13/NotificationScheduler_08.3/app/src/androidTest/java/id/ac/poliban/mi/febri/notificationscheduler_083/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan13/NotificationScheduler_08.3/app/src/main/java/id/ac/poliban/mi/ramlan/notificationscheduler_083/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan13/NotificationScheduler_08.3/app/src/main/java/id/ac/poliban/mi/febri/notificationscheduler_083/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan13/NotificationScheduler_08.3/app/src/main/java/id/ac/poliban/mi/ramlan/notificationscheduler_083/NotificationJobService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan13/NotificationScheduler_08.3/app/src/main/java/id/ac/poliban/mi/febri/notificationscheduler_083/NotificationJobService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan13/NotificationScheduler_08.3/app/src/test/java/id/ac/poliban/mi/ramlan/notificationscheduler_083/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan13/NotificationScheduler_08.3/app/src/test/java/id/ac/poliban/mi/febri/notificationscheduler_083/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan14/HomeWork_09.1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan14/HomeWork_09.1/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Febri\.android\avd\Pixel4_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JsuwzmkMrWKqmvTzORLwg9CXem" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Hello_World_Challenge.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+        <option name="PROFILING_MODE" value="NOT_SET" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbb029fb-402e-4d22-af80-5f83647d69b1" name="Changes" comment="" />
+      <created>1672879355277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672879355277</updated>
+    </task>
+    <servers />
+  </component>
+</project>
