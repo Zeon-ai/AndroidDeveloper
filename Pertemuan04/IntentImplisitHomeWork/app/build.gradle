@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'id.ac.poliban.e020320066.intentimplisithomework'
+    namespace 'id.ac.poliban.febri.intentimplisithomework'
     compileSdk 32
 
     defaultConfig {
-        applicationId "id.ac.poliban.e020320066.intentimplisithomework"
+        applicationId "id.ac.poliban.febri.intentimplisithomework"
         minSdk 16
         targetSdk 32
         versionCode 1

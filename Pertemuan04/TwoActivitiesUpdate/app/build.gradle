@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'id.ac.poliban.e020320066.twoactivitiesupdate'
+    namespace 'id.ac.poliban.febri.twoactivitiesupdate'
     compileSdk 32
 
     defaultConfig {
-        applicationId "id.ac.poliban.e020320066.twoactivitiesupdate"
+        applicationId "id.ac.poliban.febri.twoactivitiesupdate"
         minSdk 16
         targetSdk 32
         versionCode 1

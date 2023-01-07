@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'id.ac.poliban.mi.ramlan.powerreceiverhw_073'
+    namespace 'id.ac.poliban.mi.febri.powerreceiverhw_073'
     compileSdk 31
 
     defaultConfig {
-        applicationId "id.ac.poliban.mi.ramlan.powerreceiverhw_073"
+        applicationId "id.ac.poliban.mi.febri.powerreceiverhw_073"
         minSdk 21
         targetSdk 31
         versionCode 1

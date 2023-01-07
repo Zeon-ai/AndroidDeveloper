@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">NotifyMe! Tio</string>
+    <string name="app_name">NotifyMe! Febri</string>
     <string name="notification_title">You\'ve been notified!</string>
     <string name="notification_text">This is your notification text.</string>
     <string name="update">Update Notification</string>

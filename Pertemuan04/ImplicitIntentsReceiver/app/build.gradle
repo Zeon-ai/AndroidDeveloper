@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.reihan.implicitintentsreceiver'
+    namespace 'com.febri.implicitintentsreceiver'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.reihan.implicitintentsreceiver"
+        applicationId "com.febri.implicitintentsreceiver"
         minSdk 21
         targetSdk 32
         versionCode 1

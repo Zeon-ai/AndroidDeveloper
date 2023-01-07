@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="10dp"
-    tools:context="id.ac.poliban.e020320066.checkboxhomework.MainActivity">
+    tools:context="id.ac.poliban.febri.checkboxhomework.MainActivity">
 
     <CheckBox android:id="@+id/checkbox1_chocolate"
         android:layout_width="wrap_content"

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'id.ac.poliban.e020320066.simpleasynctask'
+    namespace 'id.ac.poliban.febri.simpleasynctask'
     compileSdk 33
 
     defaultConfig {
-        applicationId "id.ac.poliban.e020320066.simpleasynctask"
+        applicationId "id.ac.poliban.febri.simpleasynctask"
         minSdk 16
         targetSdk 33
         versionCode 1

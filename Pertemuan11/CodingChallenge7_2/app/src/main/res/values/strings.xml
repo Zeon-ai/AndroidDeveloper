@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Coding Challenge 7.2 Tio</string>
+    <string name="app_name">Coding Challenge 7.2 Febri</string>
     <!-- Strings in activity_main view -->
     <string name="instructions">Enter a book name to find out who wrote the book. </string>
     <string name="button_text">Search Books</string>
